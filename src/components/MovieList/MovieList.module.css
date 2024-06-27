@@ -1,0 +1,12 @@
+.list {
+  padding-left: 14px;
+}
+
+.item {
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+  font-size: 20px;
+}
+.item:hover {
+  color: rgb(36, 197, 77);
+}
